@@ -53,5 +53,5 @@
 只有在真正需要如撤销/恢复操作等功能时，
 把原来的代码重构为命令模式才是有意义。
 
-![命令模式](https://github.com/leihenqingze/fodder/blob/master/demo-designpattern/bigtalk-designpattern/commandpattern.png?raw=true)
+![命令模式](https://github.com/leihenqingze/fodder/blob/master/demo-designpattern/bigtalk-designpattern/c23/commandpattern.png?raw=true)
 
