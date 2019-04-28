@@ -11,6 +11,8 @@
 类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法
 的某些特定步骤。
 
+![模板方法](https://github.com/leihenqingze/fodder/blob/afb3191fb7a7cc4994f2a6e1cd5d534de86c3eb9/demo-designpattern/bigtalk-designpattern/c10/templatemethod.png?raw=true)
+
 模板方法模式是通过把不变行为搬移到超类，去除子类中的重复代码
 来体现它的优势。
 
