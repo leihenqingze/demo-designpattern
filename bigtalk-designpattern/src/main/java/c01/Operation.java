@@ -8,6 +8,6 @@ public abstract class Operation {
     private double numberA;
     private double numberB;
 
-    protected abstract double getResult();
+    public abstract double getResult();
 
 }

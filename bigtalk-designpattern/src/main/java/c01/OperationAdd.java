@@ -3,7 +3,7 @@ package c01;
 public class OperationAdd extends Operation {
 
     @Override
-    protected double getResult() {
+    public double getResult() {
         return getNumberA() + getNumberB();
     }
 
