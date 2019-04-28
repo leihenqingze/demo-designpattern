@@ -1,6 +1,8 @@
 原型模式：用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新
 的对象。
 
+![原型模式](https://github.com/leihenqingze/fodder/blob/5a76096123c10f63929a361366991d6d921f27b9/demo-designpattern/bigtalk-designpattern/c09/prototype.png?raw=true)
+
 原型模式其实就是从一个对象再创建另外一个可定制的对象，而且不需要知道
 任何创建的细节。
 
