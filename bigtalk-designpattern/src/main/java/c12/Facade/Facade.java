@@ -1,4 +1,4 @@
-package c12;
+package c12.Facade;
 
 public class Facade {
 
@@ -7,6 +7,7 @@ public class Facade {
     private SubSystemThree three;
     private SubSystemFour four;
 
+    //外观类，需要了解所有的子系统的方法或属性，进行组合，以备外界调用
     public Facade(){
         one = new SubSystemOne();
         two = new SubSystemTwo();
