@@ -1,4 +1,4 @@
-package c14.delegation;
+package c14.demo4;
 
 public interface Event {
 

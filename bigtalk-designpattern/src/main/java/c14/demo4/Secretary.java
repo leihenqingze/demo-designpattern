@@ -1,8 +1,8 @@
-package c14.delegation;
+package c14.demo4;
 
-public class Boss implements Subject {
+public class Secretary implements Subject {
 
-    private EventHandler eventHandler;
+    public EventHandler eventHandler;
 
     private String action;
 
