@@ -1,4 +1,4 @@
-package c12.Facade;
+package c12.facade;
 
 public class SubSystemFour {
 

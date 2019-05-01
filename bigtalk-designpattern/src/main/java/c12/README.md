@@ -1,6 +1,8 @@
 外观模式：为子系统中的一组接口提供一个一致的界面，此模式定义了
 一个高层接口，这个接口使得这一子系统更加容易使用。
 
+![外观模式](https://github.com/leihenqingze/fodder/blob/master/demo-designpattern/bigtalk-designpattern/c12/facade.png?raw=true)
+
 首先，在设计初期阶段，应该要有意识的将不同的两个层分离，比如经
 典的三层架构，就需要考虑在数据访问层和业务逻辑层、业务逻辑层和
 表示层的层与层之间建立外观；这样可以为复杂的子系统提供一个简单
