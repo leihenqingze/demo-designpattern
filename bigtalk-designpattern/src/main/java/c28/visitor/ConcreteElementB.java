@@ -7,4 +7,9 @@ public class ConcreteElementB implements Element {
         visitor.visitConcreteElementB(this);
     }
 
+    //其他的相关方法
+    public void operation(){
+
+    }
+
 }
